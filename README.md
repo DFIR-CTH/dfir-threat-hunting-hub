@@ -47,6 +47,8 @@ https://github.com/Roan9650/CHFI
 
 https://github.com/mesquidar/ForensicsTools
 
+https://www.memoryanalysis.net/amf
+
 https://github.com/Lifka/hacking-resources/blob/main/tools.md
 
 https://www.infosecinstitute.com/resources/digital-forensics/computer-forensics-tools
@@ -100,4 +102,46 @@ http://bugmenot.com/
 
 https://lightpdf.com/edit-pdf
 
+**Memory Forensics & Acquisition**
+: Specialized tools for volatile memory capture, analysis, malware detection in documents, and RAM dumping—core for Volatility 3 workflows and incident triage.
 
+Balbuzard and Cryptam Malware Document Detection Suite,
+Mandiant Memoryze, 
+HBGary FastDump, 
+MoonSols Windows Memory Toolkit, 
+Belkasoft Live RAM Capturer, 
+ATC-NY Windows Memory Reader, 
+Winpmem
+
+**Disk/Storage Forensics & Imaging**
+: Write-blockers, forensic imagers, path analysis, and storage controllers for preserving evidence integrity during disk acquisition and chain-of-custody.
+
+GMG Systems KnTtools, 
+F-response,
+Path Analyzer Pro, 
+SAFE Block,
+MacForensicsLab WriteController, 
+Byte BloggerBase
+
+**Network Intrusion Detection Systems (NIDS)**
+: Signature and anomaly-based network monitoring tools for protocol analysis, threat hunting with Wireshark/Zeek integration, and real-time packet inspection.
+
+Snort, Suricata, 
+Zeek (Bro),
+Cisco Secure IPS,
+Palo Alto Networks,
+Trend Micro TippingPoint
+
+**SIEM & Log Management**
+: Centralized logging platforms for DFIR log analysis, MITRE ATT&CK hunting queries, and behavioral analytics in blue team environments.
+
+Elastic Stack (ELK), 
+Splunk,
+Graylog,
+Datadog,
+New Relic, 
+Amazon CloudWatch,
+Loggly,
+Fluentd,
+Check Point Log viewer, 
+IBM QRadar
