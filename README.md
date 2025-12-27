@@ -11,8 +11,11 @@ It includes:
 
 This repository aims to serve as a centralized knowledge base for mastering **Digital Forensics and Incident Response (DFIR)** and advancing **Threat Hunting** expertise. It is regularly updated to ensure relevance, accuracy, and accessibility for learners and professionals alike.
 
+
+
+
 **Awesome Lists & Curated Repos**
-Comprehensive open-source forensics tool lists, anti-forensic resources, cybersecurity mindmaps, and general security resource hubs
+: Comprehensive open-source forensics tool lists, anti-forensic resources, cybersecurity mindmaps, and general security resource hubs
 
 https://cugu.github.io/awesome-forensics/#tools
 
@@ -25,7 +28,7 @@ https://github.com/eragon226/Cyber-Security-Resources?tab=readme-ov-file
 https://github.com/Ignitetechnologies/Mindmap/
 
 **DFIR Labs & Environments**
-Hands-on labs for digital forensics, blue team setups, CTF challenges, and CHFI certification resources.
+: Hands-on labs for digital forensics, blue team setups, CTF challenges, and CHFI certification resources.
 
 https://github.com/sajinshivdas/Digital-Forensics-Lab
 
@@ -40,7 +43,7 @@ https://downloads.csilinux.com/files/Operation-NightWing_The-Trade-at-Hollow-Pin
 https://github.com/Roan9650/CHFI
 
 **Forensic Tools & Software**
-Repos and sites for memory/disk forensics, password cracking, steganography detection, and crypto analysis tools
+: Repos and sites for memory/disk forensics, password cracking, steganography detection, and crypto analysis tools
 
 https://github.com/mesquidar/ForensicsTools
 
@@ -63,14 +66,14 @@ https://www.cryptool.org/en/ct1/downloads/
 https://www.spy-hunter.com/stegspy
 
 **Threat Intelligence & Hunting**
-Threat intel feeds, IOCs, and assimilation tools for proactive hunting
+: Threat intel feeds, IOCs, and assimilation tools for proactive hunting
 
 https://github.com/pbscybsec/Threat-Intelligence?tab=readme-ov-file
 
 https://github.com/Soinull/assimilate
 
 **Learning & References**
-NIST forensics repository, mastery notes, mobile forensics ebooks, and recovery guides.
+: NIST forensics repository, mastery notes, mobile forensics ebooks, and recovery guides.
 
 https://www.cfreds.nist.gov/
 
@@ -81,7 +84,7 @@ https://cryptome.org/2015/11/Cell-Phone-Investigations.pdf
 https://www.handyrecovery.com/
 
 **Utility & Misc Tools**
-Directory search, code shorteners, CSS cleaners, email tools, keygens, password sharing, and PDF editors for investigation support.
+: Directory search, code shorteners, CSS cleaners, email tools, keygens, password sharing, and PDF editors for investigation support.
 
 https://ewasion.github.io/opendirectory-finder/
 
